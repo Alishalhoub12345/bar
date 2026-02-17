@@ -1,0 +1,67 @@
+[
+    {
+        "id": 219,
+        "name": "Banks & Offices",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-1.jpg"
+    },
+    {
+        "id": 220,
+        "name": "Buildings & Apartments",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-2.jpg"
+    },
+    {
+        "id": 221,
+        "name": "Design & Printed Elements",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-3.jpg"
+    },
+    {
+        "id": 222,
+        "name": "Health Clubs",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-4.jpg"
+    },
+    {
+        "id": 223,
+        "name": "Hospitals",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-5.jpg"
+    },
+    {
+        "id": 224,
+        "name": "Hotels",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-6.jpg"
+    },
+    {
+        "id": 225,
+        "name": "Malls & Shops",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-7.jpg"
+    },
+    {
+        "id": 226,
+        "name": "Showrooms",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-8.jpg"
+    },
+    {
+        "id": 227,
+        "name": "Sports Hall",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-13.jpg"
+    },
+    {
+        "id": 228,
+        "name": "Religious",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-9.jpg"
+    },
+    {
+        "id": 229,
+        "name": "Restaurants",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-10.jpg"
+    },
+    {
+        "id": 230,
+        "name": "RGB",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-11.jpg"
+    },
+    {
+        "id": 231,
+        "name": "Theaters",
+        "imageSrc": "/src/assets/Gallery/Category Images/category-12.jpg"
+    }
+]

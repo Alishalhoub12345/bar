@@ -1,0 +1,1529 @@
+[
+    {
+        "id": 1,
+        "name": "BARWA BANK",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/barwa-bank.jpg"
+    },
+    {
+        "id": 2,
+        "name": "FIRST ENERGY BANK",
+        "category": "Bank & Offices",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/CIMG0398.jpg"
+    },
+    {
+        "id": 3,
+        "name": "DOHA BANK",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/doha-bank.jpg"
+    },
+    {
+        "id": 4,
+        "name": "AL JAZEERA FINANCE",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC_0324.jpg"
+    },
+    {
+        "id": 5,
+        "name": "AL JAZEERA FINANCE",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC_0330.jpg"
+    },
+    {
+        "id": 6,
+        "name": "AL JAZEERA FINANCE",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC_0332.jpg"
+    },
+    {
+        "id": 7,
+        "name": "AL JAZEERA FINANCE",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC_0334.jpg"
+    },
+    {
+        "id": 8,
+        "name": "AL JAZEERA FINANCE",
+        "category": "Bank & Offices",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC_0335.jpg"
+    },
+    {
+        "id": 9,
+        "name": "NIPPON TOYOTA SHOWROOM - RECEPTION",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/DSC01915.jpg"
+    },
+    {
+        "id": 10,
+        "name": "NAHED OFFICE",
+        "category": "Bank & Offices",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_0237.jpg"
+    },
+    {
+        "id": 11,
+        "name": "NAHED OFFICE",
+        "category": "Bank & Offices",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_0509.jpg"
+    },
+    {
+        "id": 12,
+        "name": "NIPPON TOYOTA SHOWROOM - BOARD ROOM",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/nippon-toyota-board-room.jpg"
+    },
+    {
+        "id": 13,
+        "name": "VODAPHONE",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5414.jpg"
+    },
+    {
+        "id": 14,
+        "name": "VODAPHONE",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5496.jpg"
+    },
+    {
+        "id": 15,
+        "name": "VODAPHONE",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/img_5386.jpg"
+    },
+    {
+        "id": 16,
+        "name": "INDUS TOWER",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/reception-area.jpg"
+    },
+    {
+        "id": 17,
+        "name": "INDUS TOWER",
+        "category": "Bank & Offices",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/meeting-room.jpg"
+    },
+    {
+        "id": 18,
+        "name": "PRIVATE BALCONY",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/279.jpg"
+    },
+    {
+        "id": 19,
+        "name": "PRIVATE BALCONY",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/284.jpg"
+    },
+    {
+        "id": 20,
+        "name": "VIVA BAHRIYA 22 & 23",
+        "category": "Buildings & Apartments",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/962502623.jpg"
+    },
+    {
+        "id": 21,
+        "name": "VIVA BAHRIYA 22 & 23",
+        "category": "Buildings & Apartments",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/1671467291.jpg"
+    },
+    {
+        "id": 22,
+        "name": "CLEMENCEAU MEDICAL CENTRE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_1623.jpg"
+    },
+    {
+        "id": 23,
+        "name": "CLEMENCEAU MEDICAL CENTRE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_1625.jpg"
+    },
+    {
+        "id": 24,
+        "name": "CLEMENCEAU MEDICAL CENTRE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_1629.jpg"
+    },
+    {
+        "id": 25,
+        "name": "CHALET",
+        "category": "Buildings & Apartments",
+        "location": "FARAYA - LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_4824.jpg"
+    },
+    {
+        "id": 26,
+        "name": "CHALET",
+        "category": "Buildings & Apartments",
+        "location": "FARAYA - LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_4825.jpg"
+    },
+    {
+        "id": 27,
+        "name": "CHALET",
+        "category": "Buildings & Apartments",
+        "location": "FARAYA - LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_4828.jpg"
+    },
+    {
+        "id": 28,
+        "name": "PRIVATE RESIDENCE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5750.jpg"
+    },
+    {
+        "id": 29,
+        "name": "PRIVATE RESIDENCE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5759.jpg"
+    },
+    {
+        "id": 30,
+        "name": "PRIVATE RESIDENCE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5770.jpg"
+    },
+    {
+        "id": 31,
+        "name": "PRIVATE RESIDENCE",
+        "category": "Buildings & Apartments",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/IMG_5773.jpg"
+    },
+    {
+        "id": 32,
+        "name": "ELEMENT 1",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-1.jpg"
+    },
+    {
+        "id": 33,
+        "name": "ELEMENT 2",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-2.jpg"
+    },
+    {
+        "id": 34,
+        "name": "ELEMENT 3",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-3.jpg"
+    },
+    {
+        "id": 35,
+        "name": "ELEMENT 4",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-4.jpg"
+    },
+    {
+        "id": 36,
+        "name": "ELEMENT 5",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-5.jpg"
+    },
+    {
+        "id": 37,
+        "name": "ELEMENT 6",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-6.jpg"
+    },
+    {
+        "id": 38,
+        "name": "ELEMENT 7",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-7.jpg"
+    },
+    {
+        "id": 39,
+        "name": "ELEMENT 8",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-8.jpg"
+    },
+    {
+        "id": 40,
+        "name": "ELEMENT 9",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-9.jpg"
+    },
+    {
+        "id": 41,
+        "name": "ELEMENT 10",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-10.jpg"
+    },
+    {
+        "id": 42,
+        "name": "ELEMENT 11",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-11.jpg"
+    },
+    {
+        "id": 43,
+        "name": "ELEMENT 12",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-12.jpg"
+    },
+    {
+        "id": 44,
+        "name": "ELEMENT 13",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-13.jpg"
+    },
+    {
+        "id": 45,
+        "name": "ELEMENT 14",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-14.jpg"
+    },
+    {
+        "id": 46,
+        "name": "ELEMENT 15",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-15.jpg"
+    },
+    {
+        "id": 47,
+        "name": "ELEMENT 16",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-16.jpg"
+    },
+    {
+        "id": 48,
+        "name": "ELEMENT 17",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-17.jpg"
+    },
+    {
+        "id": 49,
+        "name": "ELEMENT 18",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-18.jpg"
+    },
+    {
+        "id": 50,
+        "name": "ELEMENT 19",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-19.jpg"
+    },
+    {
+        "id": 51,
+        "name": "ELEMENT 20",
+        "category": "Design & Printed Elements",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/design-printed-elements-20.jpg"
+    },
+    {
+        "id": 52,
+        "name": "BRAINIES GARDERIE",
+        "category": "Health Clubs",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-1.jpg"
+    },
+    {
+        "id": 53,
+        "name": "VIVA BAHRIYA 22 & 23",
+        "category": "Health Clubs",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-2.jpg"
+    },
+    {
+        "id": 54,
+        "name": "VIVA BAHRIYA 22 & 23",
+        "category": "Health Clubs",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-3.jpg"
+    },
+    {
+        "id": 55,
+        "name": "HEALTH CLUB",
+        "category": "Health Clubs",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-4.jpg"
+    },
+    {
+        "id": 56,
+        "name": "HEALTH CLUB",
+        "category": "Health Clubs",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-6.jpg"
+    },
+    {
+        "id": 57,
+        "name": "BRAINIES GARDERIE",
+        "category": "Health Clubs",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-7.jpg"
+    },
+    {
+        "id": 58,
+        "name": "RESIDENCE",
+        "category": "Health Clubs",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-8.jpg"
+    },
+    {
+        "id": 59,
+        "name": "HEALTH CLUB",
+        "category": "Health Clubs",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-9.jpg"
+    },
+    {
+        "id": 60,
+        "name": "PRIVATE RESIDENCE - SWIMMING POOL",
+        "category": "Health Clubs",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/health-clubs-10.jpg"
+    },
+    {
+        "id": 61,
+        "name": "HOSPITALS 1",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-1.jpg"
+    },
+    {
+        "id": 62,
+        "name": "HOSPITALS 2",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-2.jpg"
+    },
+    {
+        "id": 63,
+        "name": "HOSPITALS 3",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-3.jpg"
+    },
+    {
+        "id": 64,
+        "name": "HOSPITALS 4",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-4.jpg"
+    },
+    {
+        "id": 65,
+        "name": "HOSPITALS 5",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-5.jpg"
+    },
+    {
+        "id": 66,
+        "name": "HOSPITALS 6",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-6.jpg"
+    },
+    {
+        "id": 67,
+        "name": "HOSPITALS 7",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-7.jpg"
+    },
+    {
+        "id": 68,
+        "name": "HOSPITALS 8",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-8.jpg"
+    },
+    {
+        "id": 69,
+        "name": "HOSPITALS 9",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-9.jpg"
+    },
+    {
+        "id": 70,
+        "name": "HOSPITALS 10",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-10.jpg"
+    },
+    {
+        "id": 71,
+        "name": "HOSPITALS 11",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-11.jpg"
+    },
+    {
+        "id": 72,
+        "name": "HOSPITALS 12",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-12.jpg"
+    },
+    {
+        "id": 73,
+        "name": "HOSPITALS 13",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-13.jpg"
+    },
+    {
+        "id": 74,
+        "name": "HOSPITALS 14",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-14.jpg"
+    },
+    {
+        "id": 75,
+        "name": "HOSPITALS 15",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-15.jpg"
+    },
+    {
+        "id": 76,
+        "name": "HOSPITALS 16",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-16.jpg"
+    },
+    {
+        "id": 77,
+        "name": "HOSPITALS 17",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-17.jpg"
+    },
+    {
+        "id": 78,
+        "name": "HOSPITALS 18",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-18.jpg"
+    },
+    {
+        "id": 79,
+        "name": "HOSPITALS 19",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-19.jpg"
+    },
+    {
+        "id": 80,
+        "name": "HOSPITALS 20",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-20.jpg"
+    },
+    {
+        "id": 81,
+        "name": "HOSPITALS 21",
+        "category": "Hospitals",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/hospitals-21.jpg"
+    },
+    {
+        "id": 82,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-2.jpg"
+    },
+    {
+        "id": 83,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-3.jpg"
+    },
+    {
+        "id": 84,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-4.jpg"
+    },
+    {
+        "id": 85,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-5.jpg"
+    },
+    {
+        "id": 86,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-6.jpg"
+    },
+    {
+        "id": 87,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-7.jpg"
+    },
+    {
+        "id": 88,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-8.jpg"
+    },
+    {
+        "id": 89,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-9.jpg"
+    },
+    {
+        "id": 90,
+        "name": "ROYAL CITY SEASON HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-13.jpg"
+    },
+    {
+        "id": 91,
+        "name": "PARK ROTANA HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-1.jpg"
+    },
+    {
+        "id": 92,
+        "name": "PARK ROTANA HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-10.jpg"
+    },
+    {
+        "id": 93,
+        "name": "PARK ROTANA HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-11.jpg"
+    },
+    {
+        "id": 94,
+        "name": "PARK ROTANA HOTEL",
+        "category": "Hotels",
+        "location": "ABU DHABI",
+        "imageSrc": "/src/assets/Gallery/Photos/hotels-12.jpg"
+    },
+    {
+        "id": 95,
+        "name": "BANYAS MALL",
+        "category": "Malls & Shops",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-1.jpg"
+    },
+    {
+        "id": 96,
+        "name": "VIRGIN MEGASTORE",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-2.jpg"
+    },
+    {
+        "id": 97,
+        "name": "VIRGIN MEGASTORE",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-3.jpg"
+    },
+    {
+        "id": 98,
+        "name": "BANYAS MALL",
+        "category": "Malls & Shops",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-4.jpg"
+    },
+    {
+        "id": 99,
+        "name": "SEEF MALL - ATRIUM",
+        "category": "Malls & Shops",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-5.jpg"
+    },
+    {
+        "id": 100,
+        "name": "PHILIPS STORE",
+        "category": "Malls & Shops",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-6.jpg"
+    },
+    {
+        "id": 101,
+        "name": "PHILIPS STORE",
+        "category": "Malls & Shops",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-7.jpg"
+    },
+    {
+        "id": 102,
+        "name": "INTERNET CAFE",
+        "category": "Malls & Shops",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-8.jpg"
+    },
+    {
+        "id": 103,
+        "name": "INTERNET CAFE",
+        "category": "Malls & Shops",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-9.jpg"
+    },
+    {
+        "id": 104,
+        "name": "BANYAS MALL",
+        "category": "Malls & Shops",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-10.jpg"
+    },
+    {
+        "id": 105,
+        "name": "VIRGIN MEGASTORE",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-11.jpg"
+    },
+    {
+        "id": 106,
+        "name": "BANYAS MALL",
+        "category": "Malls & Shops",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-12.jpg"
+    },
+    {
+        "id": 107,
+        "name": "MAZEN CITY",
+        "category": "Malls & Shops",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-13.jpg"
+    },
+    {
+        "id": 108,
+        "name": "MAZEN CITY",
+        "category": "Malls & Shops",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-14.jpg"
+    },
+    {
+        "id": 109,
+        "name": "KING ABDULLAH SPECIALIST CHILDREN  HOSPITAL - THEATRE ENTRANCE",
+        "category": "Malls & Shops",
+        "location": "KSA",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-15.jpg"
+    },
+    {
+        "id": 110,
+        "name": "HAMRA MALL",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-16.jpg"
+    },
+    {
+        "id": 111,
+        "name": "HAMRA MALL",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-17.jpg"
+    },
+    {
+        "id": 112,
+        "name": "HAMRA MALL",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-18.jpg"
+    },
+    {
+        "id": 113,
+        "name": "HAMRA MALL",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-19.jpg"
+    },
+    {
+        "id": 114,
+        "name": "HAMRA MALL",
+        "category": "Malls & Shops",
+        "location": "KUWAIT",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-27.jpg"
+    },
+    {
+        "id": 115,
+        "name": "SEEF MALL - ATRIUM",
+        "category": "Malls & Shops",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-21.jpg"
+    },
+    {
+        "id": 116,
+        "name": "SEEF MALL - ATRIUM",
+        "category": "Malls & Shops",
+        "location": "BAHRAIN",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-22.jpg"
+    },
+    {
+        "id": 117,
+        "name": "PORTO SALON",
+        "category": "Malls & Shops",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-23.jpg"
+    },
+    {
+        "id": 118,
+        "name": "PORTO SALON",
+        "category": "Malls & Shops",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-24.jpg"
+    },
+    {
+        "id": 119,
+        "name": "AYZARANI SHOP",
+        "category": "Malls & Shops",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-25.jpg"
+    },
+    {
+        "id": 120,
+        "name": "MAZEN CITY",
+        "category": "Malls & Shops",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-26.jpg"
+    },
+    {
+        "id": 121,
+        "name": "STARLINK - CELLULAR SHOP",
+        "category": "Malls & Shops",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/malls-shops-27.jpg"
+    },
+    {
+        "id": 122,
+        "name": "MAZDA SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-1.jpg"
+    },
+    {
+        "id": 123,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-2.jpg"
+    },
+    {
+        "id": 124,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-3.jpg"
+    },
+    {
+        "id": 125,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-4.jpg"
+    },
+    {
+        "id": 126,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-5.jpg"
+    },
+    {
+        "id": 127,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-6.jpg"
+    },
+    {
+        "id": 128,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-7.jpg"
+    },
+    {
+        "id": 129,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-8.jpg"
+    },
+    {
+        "id": 130,
+        "name": "ALFA ROMEO SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-9.jpg"
+    },
+    {
+        "id": 131,
+        "name": "ALFA ROMEO SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-10.jpg"
+    },
+    {
+        "id": 132,
+        "name": "SKY DIVE",
+        "category": "Showrooms",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-11.jpg"
+    },
+    {
+        "id": 133,
+        "name": "MAZDA SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-12.jpg"
+    },
+    {
+        "id": 134,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-13.jpg"
+    },
+    {
+        "id": 135,
+        "name": "HYUNDAI SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-14.jpg"
+    },
+    {
+        "id": 136,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-15.jpg"
+    },
+    {
+        "id": 137,
+        "name": "HYUNDAI SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-16.jpg"
+    },
+    {
+        "id": 138,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-17.jpg"
+    },
+    {
+        "id": 139,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-18.jpg"
+    },
+    {
+        "id": 140,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-19.jpg"
+    },
+    {
+        "id": 141,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-20.jpg"
+    },
+    {
+        "id": 142,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-21.jpg"
+    },
+    {
+        "id": 143,
+        "name": "BMW SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-22.jpg"
+    },
+    {
+        "id": 144,
+        "name": "RENAULT SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-23.jpg"
+    },
+    {
+        "id": 145,
+        "name": "ROLLS ROYCE SHOWROOM",
+        "category": "Showrooms",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-24.jpg"
+    },
+    {
+        "id": 146,
+        "name": "TOYOTA SHOWROOM",
+        "category": "Showrooms",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-25.jpg"
+    },
+    {
+        "id": 147,
+        "name": "TOYOTA SHOWROOM",
+        "category": "Showrooms",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-26.jpg"
+    },
+    {
+        "id": 148,
+        "name": "FERRARI SHOWROOM",
+        "category": "Showrooms",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-27.jpg"
+    },
+    {
+        "id": 149,
+        "name": "SKY DIVE",
+        "category": "Showrooms",
+        "location": "DUBAI",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-28.jpg"
+    },
+    {
+        "id": 150,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-29.jpg"
+    },
+    {
+        "id": 151,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-30.jpg"
+    },
+    {
+        "id": 152,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-31.jpg"
+    },
+    {
+        "id": 153,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-32.jpg"
+    },
+    {
+        "id": 154,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-33.jpg"
+    },
+    {
+        "id": 155,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-34.jpg"
+    },
+    {
+        "id": 156,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-35.jpg"
+    },
+    {
+        "id": 157,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-36.jpg"
+    },
+    {
+        "id": 158,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-37.jpg"
+    },
+    {
+        "id": 159,
+        "name": "LEXUS SHOWROOM",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-38.jpg"
+    },
+    {
+        "id": 160,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-39.jpg"
+    },
+    {
+        "id": 161,
+        "name": "CHOUCAIR GROUP",
+        "category": "Showrooms",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/other-showrooms-40.jpg"
+    },
+    {
+        "id": 162,
+        "name": "LMH - EXTERNAL VIEW",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-external-view-qatar-1.jpg"
+    },
+    {
+        "id": 163,
+        "name": "LMH - EXTERNAL VIEW",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-external-view-qatar-2.jpg"
+    },
+    {
+        "id": 164,
+        "name": "LMH - EXTERNAL VIEW",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-external-view-qatar-3.jpg"
+    },
+    {
+        "id": 165,
+        "name": "LMH - EXTERNAL VIEW",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-external-view-qatar-4.jpg"
+    },
+    {
+        "id": 166,
+        "name": "LMH - RECEPTIONS",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-receptions-qatar-1.jpg"
+    },
+    {
+        "id": 167,
+        "name": "LMH - RECEPTIONS",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-receptions-qatar-2.jpg"
+    },
+    {
+        "id": 168,
+        "name": "LMH - RECEPTIONS",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-receptions-qatar-3.jpg"
+    },
+    {
+        "id": 169,
+        "name": "LMH - RECEPTIONS",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-receptions-qatar-4.jpg"
+    },
+    {
+        "id": 170,
+        "name": "LMH - RESTAURANT",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-restaurant-qatar-1.jpg"
+    },
+    {
+        "id": 171,
+        "name": "LMH - RESTAURANT",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-restaurant-qatar-2.jpg"
+    },
+    {
+        "id": 172,
+        "name": "LMH - RESTAURANT",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-restaurant-qatar-3.jpg"
+    },
+    {
+        "id": 173,
+        "name": "LMH - RESTAURANT",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-restaurant-qatar-4.jpg"
+    },
+    {
+        "id": 174,
+        "name": "LMH - STADIUM",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-stadium-qatar.jpg"
+    },
+    {
+        "id": 175,
+        "name": "LMH - CONCOURSES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-concourses-qatar-1.jpg"
+    },
+    {
+        "id": 176,
+        "name": "LMH - CONCOURSES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-concourses-qatar-2.jpg"
+    },
+    {
+        "id": 177,
+        "name": "LMH - CONCOURSES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-concourses-qatar-3.jpg"
+    },
+    {
+        "id": 178,
+        "name": "LMH - ENTRANCES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-entrances-qatar-1.jpg"
+    },
+    {
+        "id": 179,
+        "name": "LMH - ENTRANCES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-entrances-qatar-2.jpg"
+    },
+    {
+        "id": 180,
+        "name": "LMH - ENTRANCES",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/lmh-entrances-qatar-3.jpg"
+    },
+    {
+        "id": 181,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-1.jpg"
+    },
+    {
+        "id": 182,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-2.jpg"
+    },
+    {
+        "id": 183,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-3.jpg"
+    },
+    {
+        "id": 184,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-4.jpg"
+    },
+    {
+        "id": 185,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-5.jpg"
+    },
+    {
+        "id": 186,
+        "name": "THE MOSQUE",
+        "category": "Sports Hall",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/religious-6.jpg"
+    },
+    {
+        "id": 187,
+        "name": "LIVING COLORS",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-1.jpg"
+    },
+    {
+        "id": 188,
+        "name": "LIVING COLORS",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-2.jpg"
+    },
+    {
+        "id": 189,
+        "name": "RADISSON HOTEL",
+        "category": "Restaurants",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-4.jpg"
+    },
+    {
+        "id": 190,
+        "name": "RADISSON HOTEL",
+        "category": "Restaurants",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-5.jpg"
+    },
+    {
+        "id": 191,
+        "name": "RADISSON HOTEL",
+        "category": "Restaurants",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-6.jpg"
+    },
+    {
+        "id": 192,
+        "name": "RADISSON HOTEL",
+        "category": "Restaurants",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-7.jpg"
+    },
+    {
+        "id": 193,
+        "name": "FRAISIER SUITES",
+        "category": "Restaurants",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-8.jpg"
+    },
+    {
+        "id": 194,
+        "name": "GRAND CAFE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-9.jpg"
+    },
+    {
+        "id": 195,
+        "name": "GRAND CAFE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-10.jpg"
+    },
+    {
+        "id": 196,
+        "name": "GRAND CAFE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-11.jpg"
+    },
+    {
+        "id": 197,
+        "name": "GRAND CAFE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-12.jpg"
+    },
+    {
+        "id": 198,
+        "name": "BLACKROCK STEAK LOUNGE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-13.jpg"
+    },
+    {
+        "id": 199,
+        "name": "BLACKROCK STEAK LOUNGE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-14.jpg"
+    },
+    {
+        "id": 200,
+        "name": "BLACKROCK STEAK LOUNGE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-15.jpg"
+    },
+    {
+        "id": 201,
+        "name": "BLACKROCK STEAK LOUNGE",
+        "category": "Restaurants",
+        "location": "LEBANON",
+        "imageSrc": "/src/assets/Gallery/Photos/restaurants-16.jpg"
+    },
+    {
+        "id": 202,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-1.jpg"
+    },
+    {
+        "id": 203,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-2.jpg"
+    },
+    {
+        "id": 204,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-3.jpg"
+    },
+    {
+        "id": 205,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-5.jpg"
+    },
+    {
+        "id": 206,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-6.jpg"
+    },
+    {
+        "id": 207,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-7.jpg"
+    },
+    {
+        "id": 208,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-8.jpg"
+    },
+    {
+        "id": 209,
+        "name": "HYDRAULIC LIGHTING ELEMENTS",
+        "category": "RGB",
+        "location": "",
+        "imageSrc": "/src/assets/Gallery/Photos/rgb-9.jpg"
+    },
+    {
+        "id": 210,
+        "name": "CMC AUDITORIUM",
+        "category": "Theaters",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-1.jpg"
+    },
+    {
+        "id": 211,
+        "name": "CMC AUDITORIUM",
+        "category": "Theaters",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-2.jpg"
+    },
+    {
+        "id": 212,
+        "name": "CMC AUDITORIUM",
+        "category": "Theaters",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-3.jpg"
+    },
+    {
+        "id": 213,
+        "name": "CMC AUDITORIUM",
+        "category": "Theaters",
+        "location": "INDIA",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-7.jpg"
+    },
+    {
+        "id": 214,
+        "name": "AL RAYYAN MUNICIPALITY",
+        "category": "Theaters",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-4.jpg"
+    },
+    {
+        "id": 215,
+        "name": "AL RAYYAN MUNICIPALITY",
+        "category": "Theaters",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-5.jpg"
+    },
+    {
+        "id": 216,
+        "name": "AL RAYYAN MUNICIPALITY",
+        "category": "Theaters",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-6.jpg"
+    },
+    {
+        "id": 217,
+        "name": "AL RAYYAN MUNICIPALITY",
+        "category": "Theaters",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-8.jpg"
+    },
+    {
+        "id": 218,
+        "name": "HMC AUDITORIUM",
+        "category": "Theaters",
+        "location": "QATAR",
+        "imageSrc": "/src/assets/Gallery/Photos/theaters-9.jpg"
+    }
+
+]

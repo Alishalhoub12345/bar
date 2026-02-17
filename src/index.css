@@ -1,0 +1,44 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: rgb(249, 250, 251);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x:clip;
+}
+
+body{
+  overflow-x:clip;
+}
+
+button {
+  padding: 0.6em 1.2em;
+/*  font-size: 1em; */
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: oklch(98.5% 0.002 247.839);
+  }
+}
+
+@keyframes loaderAnimation {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}

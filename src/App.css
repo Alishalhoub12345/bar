@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import 'tailwindcss';
+
+#root {
+  /* max-width: 1280px;*/
+  margin: 0;
+  /* padding: 2rem; */
+  text-align: center; 
+  background-color:oklch(98.5% 0.002 247.839);
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+@theme {
+  --font-titillium: 'Titillium Web', sans-serif;
+  --font-helvetica: 'Helvetica', sans-serif;
+}
+
+#h1{
+  font-size:22px;
+}
+
+#h2{
+  font-size:18px;
+}
+
+#h3{
+  font-size:16px;
+}
+
+#p{
+  font-size:14px;
+}
+
+#small{
+  font-size:12px;
+}
+
+#x-small{
+  font-size:10px;
+}
+
+@media screen and (max-width:767px){
+  #h1{
+    font-size:20px;
+  }
+
+  #h2{
+    font-size:14px;
+  }
+
+  #h3{
+    font-size:12px;
+  }
+
+  #p{
+    font-size:12px;
+  }
+
+  #small{
+    font-size:10px;
+  }
+
+  #x-small{
+  font-size:10px;
+  }
+}

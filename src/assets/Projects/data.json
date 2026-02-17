@@ -1,0 +1,172 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "SOLIDERE",
+    "location": "LEBANON",
+    "imageSrc": "/src/assets/Projects/Images/SOLIDERE - LEBANON.jpg"
+  },
+  {
+    "id": 2,
+    "name": "KATARA RAFFLES & FAIRMONT HOTELS",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/KATARA RAFFLES & FAIRMONT HOTELS - QATAR.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CLEMENCEAU MEDICAL CENTER",
+    "location": "RIYADH",
+    "imageSrc": "/src/assets/Projects/Images/CLEMENCEAU MEDICAL CENTER - RIYADH.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ABC",
+    "location": "LEBANON",
+    "imageSrc": "/src/assets/Projects/Images/ABC - LEBANON.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BARWA COMMERCIAL AVENUE",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/IMG_0143.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LUSAIL MULTIPURPOSE SPORTS HALL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/Lusail_01.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ABDALI BOULEVARD",
+    "location": "AMMAN - JORDAN",
+    "imageSrc": "/src/assets/Projects/Images/22_big.jpg"
+  },
+  {
+    "id": 8,
+    "name": "SUPREME EDUCATION COUNCIL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/supreme-educational-hq.jpg"
+  },
+  {
+    "id": 9,
+    "name": "LUSAIL MUTIPURPOSE SPORTS HALL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/C01.jpg"
+  },
+  {
+    "id": 10,
+    "name": "HAMRA TOWER",
+    "location": "KUWAIT",
+    "imageSrc": "/src/assets/Projects/Images/som_al_hamra_firdous_20.jpg"
+  },
+  {
+    "id": 11,
+    "name": "ABU DHABI STOCK EXCHANGE",
+    "location": "ABU DHABI",
+    "imageSrc": "/src/assets/Projects/Images/C03.jpg"
+  },
+  {
+    "id": 12,
+    "name": "ABU DHABI STOCK EXCHANGE",
+    "location": "ABU DHABI",
+    "imageSrc": "/src/assets/Projects/Images/C02.jpg"
+  },
+  {
+    "id": 13,
+    "name": "AL MAFRAQ HOSPITAL",
+    "location": "ABU DHABI",
+    "imageSrc": "/src/assets/Projects/Images/C05.jpg"
+  },
+  {
+    "id": 14,
+    "name": "AL MAFRAQ HOSPITAL",
+    "location": "ABU DHABI",
+    "imageSrc": "/src/assets/Projects/Images/C04.jpg"
+  },
+  {
+    "id": 15,
+    "name": "HAMAD MEDICAL HOSPITAL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/C06.jpg"
+  },
+  {
+    "id": 16,
+    "name": "KING ABDULLAH SPECIALIST CHILDREN HOSPITAL",
+    "location": "KSA",
+    "imageSrc": "/src/assets/Projects/Images/C07.jpg"
+  },
+  {
+    "id": 17,
+    "name": "KING ABDULLAH SPECIALIST CHILDREN HOSPITAL",
+    "location": "KSA",
+    "imageSrc": "/src/assets/Projects/Images/C08.jpg"
+  },
+  {
+    "id": 18,
+    "name": "FERRARI WORLD",
+    "location": "ABU DHABI",
+    "imageSrc": "/src/assets/Projects/Images/ferrari-world-abu-dhabi_3.jpg"
+  },
+  {
+    "id": 19,
+    "name": "SIDRA MEDICAL HOSPITAL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/project-1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "ABDALI BOULEVARD",
+    "location": "AMMAN - JORDAN",
+    "imageSrc": "/src/assets/Projects/Images/abdali_boulevard_parking_management_system.jpg"
+  },
+  {
+    "id": 21,
+    "name": "THE GATE MALL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/The-Gate-Mall.jpg"
+  },
+  {
+    "id": 22,
+    "name": "VIVA BAHRIA",
+    "location": "PEARL ISLAND - QATAR",
+    "imageSrc": "/src/assets/Projects/Images/Viva-Bahriya-VB-22-and-23-in-Pearl-Island-Qatar.jpg"
+  },
+  {
+    "id": 23,
+    "name": "PRINCESS NOURA UNIVERSITY",
+    "location": "KSA",
+    "imageSrc": "/src/assets/Projects/Images/Princess-Nora-bint-Abdul-Rahman-University-4.jpg"
+  },
+  {
+    "id": 24,
+    "name": "SIDRA MEDICAL HOSPITAL",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/WS0_9738.jpg"
+  },
+  {
+    "id": 25,
+    "name": "PRINCESS NOURA UNIVERSITY",
+    "location": "KSA",
+    "imageSrc": "/src/assets/Projects/Images/Princess-Nora-bint-Abdul-Rahman-University-Saudi-Arabia.jpg"
+  },
+  {
+    "id": 26,
+    "name": "NATIONAL CONVENTION CENTRE CAR PARK",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/National-Convention-Center-Car-Park-(NCC-Car-Park).jpg"
+  },
+  {
+    "id": 27,
+    "name": "CLEMENCEAU MEDICAL CENTRE",
+    "location": "LEBANON",
+    "imageSrc": "/src/assets/Projects/Images/ClemenceauMedicalCenter.jpg"
+  },
+  {
+    "id": 28,
+    "name": "DR. ALI FTAIS TOWER",
+    "location": "QATAR",
+    "imageSrc": "/src/assets/Projects/Images/Dr.-Ali-Ftais-Tower-in-Lusail---Qatar.jpg"
+  }
+]

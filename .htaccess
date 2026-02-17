@@ -1,0 +1,15 @@
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+
+# 🔒 Exclude React testing site
+RewriteRule ^newsite(/|$) - [L]
+
+# Legacy site rewrites (unchanged)
+RewriteRule ^about-us.html /aboutus.php
+RewriteRule ^products.html /products.php
+RewriteRule ^technical-specs.html /specs.php
+RewriteRule ^special-projects.html /projects.php?categoryid=1
+RewriteRule ^photo-gallery.html /gallery.php
+RewriteRule ^category/([0-9]+)/(.+)\.html$ /projects.php?categoryid=$1
+RewriteRule ^contact-us.html /contactus.php

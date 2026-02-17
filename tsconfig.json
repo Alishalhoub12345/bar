@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    /* Environment */
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "jsx": "react-jsx",
+
+    /* Module system (Vite-friendly) */
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    
+    /* Vite */
+    "types": ["vite/client"],
+
+    /* Output (Vite handles build, but fine to keep) */
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    /* Type Safety */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Behavior */
+    "verbatimModuleSyntax": false,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    "baseUrl": "./src",
+    "paths": {
+        "@/*": ["*"],
+        "components/*": ["components/*"],
+        "assets/*": ["assets/*"]
+    }
+    
+  }
+}
